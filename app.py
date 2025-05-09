@@ -7,7 +7,7 @@ from pdf import read_pdf
 from analysis import profile
 
 # Create the Streamlit Front End
-st.header("📝 Resume Analysis :blue[Your Job Companion]✍️", divider="green")
+st.header("📝 Resume Analysis :blue[Your Job Companion]✍️🎯", divider="green")
 st.subheader("✅ Tips for Using the Application")
 
 notes = f'''
